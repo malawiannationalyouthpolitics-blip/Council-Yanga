@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 100" width="100%" height="100%" fill="none">
+  <!-- Digital Democracy Initiative Logo -->
+  <g transform="translate(50, 50)">
+    <!-- Column 1 (x = -36) -->
+    <circle cx="-36" cy="-15" r="4.5" fill="#dc2626" />
+    <circle cx="-36" cy="0" r="4.5" fill="#0284c7" />
+    <circle cx="-36" cy="15" r="4.5" fill="#4ade80" />
+
+    <!-- Column 2 (x = -24) -->
+    <circle cx="-24" cy="-28" r="4.5" fill="#38bdf8" />
+    <circle cx="-24" cy="-14" r="4.5" fill="#ec4899" />
+    <circle cx="-24" cy="0" r="4.5" fill="#f59e0b" />
+    <circle cx="-24" cy="14" r="4.5" fill="#10b981" />
+    <circle cx="-24" cy="28" r="4.5" fill="#b45309" />
+
+    <!-- Column 3 (x = -12) -->
+    <circle cx="-12" cy="-35" r="4.5" fill="#a855f7" />
+    <circle cx="-12" cy="-21" r="4.5" fill="#f43f5e" />
+    <circle cx="-12" cy="-7" r="4.5" fill="#60a5fa" />
+    <circle cx="-12" cy="7" r="4.5" fill="#ea580c" />
+    <circle cx="-12" cy="21" r="4.5" fill="#eab308" />
+    <circle cx="-12" cy="35" r="4.5" fill="#0284c7" />
+
+    <!-- Column 4 (x = 0, center) -->
+    <circle cx="0" cy="-38" r="4.5" fill="#0ea5e9" />
+    <circle cx="0" cy="-26" r="4.5" fill="#b45309" />
+    <circle cx="0" cy="-14" r="4.5" fill="#ec4899" />
+    <circle cx="0" cy="-2" r="4.5" fill="#a78bfa" />
+    <circle cx="0" cy="10" r="4.5" fill="#ef4444" />
+    <circle cx="0" cy="22" r="4.5" fill="#f59e0b" />
+    <circle cx="0" cy="34" r="4.5" fill="#10b981" />
+
+    <!-- Column 5 (x = 12) -->
+    <circle cx="12" cy="-35" r="4.5" fill="#1d4ed8" />
+    <circle cx="12" cy="-21" r="4.5" fill="#fb7185" />
+    <circle cx="12" cy="-7" r="4.5" fill="#f97316" />
+    <circle cx="12" cy="7" r="4.5" fill="#c084fc" />
+    <circle cx="12" cy="21" r="4.5" fill="#ec4899" />
+    <circle cx="12" cy="35" r="4.5" fill="#8b5cf6" />
+
+    <!-- Column 6 (x = 24) -->
+    <circle cx="24" cy="-28" r="4.5" fill="#b45309" />
+    <circle cx="24" cy="-14" r="4.5" fill="#38bdf8" />
+    <circle cx="24" cy="0" r="4.5" fill="#f59e0b" />
+    <circle cx="24" cy="14" r="4.5" fill="#ef4444" />
+    <circle cx="24" cy="28" r="4.5" fill="#a855f7" />
+
+    <!-- Column 7 (x = 36) -->
+    <circle cx="36" cy="-15" r="4.5" fill="#059669" />
+    <circle cx="36" cy="0" r="4.5" fill="#a78bfa" />
+    <circle cx="36" cy="15" r="4.5" fill="#0284c7" />
+  </g>
+
+  <!-- Typography: Digital Democracy Initiative -->
+  <text x="108" y="58" font-family="'Courier Prime', 'Courier New', Courier, 'Liberation Mono', 'Roboto Slab', serif" font-size="27" font-weight="400" fill="#0a0a0a" letter-spacing="0.3px">Digital Democracy Initiative</text>
+</svg>

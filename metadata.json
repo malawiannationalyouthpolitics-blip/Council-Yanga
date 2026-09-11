@@ -1,0 +1,8 @@
+{
+  "name": "Council Yanga",
+  "description": "Track your community development. Follow development project in real time from planning to completion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER"
+  ]
+}
