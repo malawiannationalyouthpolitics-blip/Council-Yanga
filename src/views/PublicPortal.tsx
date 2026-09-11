@@ -46,7 +46,7 @@ const TRANSLATIONS: Record<string, Record<string, string>> = {
     Announcements: 'Announcements', Feedback: 'Feedback', Documents: 'Documents',
     kpiHeading: 'Community Projects and Initiatives Performance Summary',
     heroTitle: 'COUNCIL YANGA',
-    heroDesc: 'Track community development. Follow development project in real time from planning to completion.',
+    heroDesc: 'Track developments and initiatives happening in your community. Follow development projects in real time from planning to completion.',
     'Total CDF Projects': 'Total CDF Projects',
     'Total Projects': 'Total Projects', Completed: 'Completed', Ongoing: 'Ongoing',
     'Completed Projects': 'Completed Projects', 'Ongoing Projects': 'Ongoing Projects',
